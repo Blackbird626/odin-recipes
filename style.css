@@ -19,6 +19,13 @@ h1 {
 .link {
     color: rgb(46, 46, 46);
     font-weight: 500;
+    font-family: "Times New Roman", serif;
+}
+
+.homepage {
+    padding: 15px;
+    font-size: 20px;
+    margin-bottom: 5px;
 }
 
 #pumpkinpie {
